@@ -1,8 +1,8 @@
 {
   "context": "server",
-  "identifier": "nl.pa.Pwn4two.no_fog",
+  "identifier": "nl.pa.Pwn4two.no-fog",
   "display_name": "No Fog",
-  "description": "Enemy units are no longer hidden by fog of war.",
+  "description": "Removes fog of war from the planet your Commander is on.",
   "author": "Pwn4two",
   "version": "1.01",
   "build": "112835",
@@ -11,8 +11,7 @@
   "forum": "https://forums.planetaryannihilation.com/threads/server-no-fog.73313/",
   "icon": "https://imgur.com/AnukCiM.png",
   "priority": 100,
-  "category": [
-	"classic",
+  "category": [	
 	"titans",
 	"ui"
     ]
