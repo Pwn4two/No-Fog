@@ -2,17 +2,18 @@
   "context": "server",
   "identifier": "nl.pa.Pwn4two.no_fog",
   "display_name": "No Fog",
-  "description": "Enemy units are no longer hidden by fog of war",
+  "description": "Enemy units are no longer hidden by fog of war.",
   "author": "Pwn4two",
-  "version": "1.0",
-  "build": "105068",
-  "date": "2019/02/27",
+  "version": "1.01",
+  "build": "112835",
+  "date": "2019/02/28",
   "signature": "not yet implemented",
   "forum": "https://forums.planetaryannihilation.com/threads/server-no-fog.73313/",
   "icon": "https://imgur.com/AnukCiM.png",
   "priority": 100,
   "category": [
-	"in-game",
-	"UI"
+	"classic",
+	"titans",
+	"ui"
     ]
 }
